@@ -8,6 +8,6 @@ This repository contains:
 - [Overfitting and Regularization](DL_Overfitting.ipynb)
 - [How to train a model for small datasets?](DL_TransferLearning.ipynb)
 - [Different type of DL models, Autoencoders](DL_Autoencoders.ipynb)
-- [Different type of DL models, UNet]
+- Different type of DL models, UNet
 - [Different type of DL models, Siamese Net](DL_SiameseNet_MNIST.ipynb)
 
