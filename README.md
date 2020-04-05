@@ -12,3 +12,4 @@ This repository contains:
 - [Other types of DL models, Siamese Net](DL_SiameseNet_MNIST.ipynb)
 - Conclusions on DL
 
+All notebooks are in Colab: https://drive.google.com/drive/folders/1z97lCHceB5QhQNDhsUC5L8aR6ldAY5ce?usp=sharing
